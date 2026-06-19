@@ -286,7 +286,7 @@ Manual smoke test:
 
 ## Submission Links
 
-- GitHub Repository Link:
+- GitHub Repository Link: https://github.com/vkk-rawat/assignment-v1
 - Backend Docker Hub Image Link:
 - Frontend Hosted URL:
 - Backend API Hosted URL:
